@@ -1,0 +1,8 @@
+{
+  "name": "MeetingInsight Pro",
+  "description": "A high-performance video recording and AI analysis tool that generates transcripts, summaries, and action items from screen recordings or uploaded videos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
